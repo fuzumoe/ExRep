@@ -2,13 +2,13 @@ package main;
 
 public class Main {
 
-public String[] names ={"adam","abel","miras"};
+public String[] names ={"ko","baba","dod","nano"};
 
 public void printNames(){
 
-for(String name :names){
+for(String bib :names){
 
-System.out.println(name);
+System.out.println(bib);
 
 }
 
